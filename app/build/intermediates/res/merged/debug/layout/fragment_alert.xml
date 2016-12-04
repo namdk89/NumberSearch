@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ic_alert_bg"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/s10dp" >
+
+    <com.triplesnake.view.ArialTextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/s5dp"
+        android:gravity="center"
+        android:maxWidth="@dimen/s200dp"
+        android:text="@string/theme_unavailable"
+        android:textColor="#000"
+        android:textSize="@dimen/s14sp"
+        android:textStyle="bold" />
+
+    <com.triplesnake.view.ArialTextView
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:maxWidth="@dimen/s200dp"
+        android:textColor="#000"
+        android:textSize="@dimen/s14sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/s10dp"
+        android:gravity="center_horizontal"
+        android:paddingLeft="@dimen/s10dp"
+        android:paddingRight="@dimen/s10dp"
+        android:weightSum="2" >
+
+        <Button
+            android:id="@+id/btn_no"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_alert"
+            android:padding="@dimen/s5dp"
+            android:text="@string/no"
+            android:textSize="@dimen/s14sp" />
+
+        <Button
+            android:id="@+id/btn_yes"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_alert"
+            android:padding="@dimen/s5dp"
+            android:text="@string/yes"
+            android:textSize="@dimen/s14sp" />
+    </LinearLayout>
+
+</LinearLayout>

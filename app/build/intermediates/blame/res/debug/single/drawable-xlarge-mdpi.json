@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\btn_close_selected.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\btn_close_selected.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\ic_match_list.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_match_list.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\btn_close_normal.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\btn_close_normal.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\theme_wood_ic_clock.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\theme_wood_ic_clock.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\theme_paper_ic_pause.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\theme_paper_ic_pause.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\theme_basic_ic_pause.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\theme_basic_ic_pause.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\ic_sound_on.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_sound_on.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\ic_challenge.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_challenge.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\ic_alert_bg.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_alert_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\ic_match.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_match.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\ic_achievement.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_achievement.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\theme_metal_ic_clock.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\theme_metal_ic_clock.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\theme_basic_ic_clock.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\theme_basic_ic_clock.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\ic_rank.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_rank.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\ic_launcher.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\theme_wood_ic_pause.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\theme_wood_ic_pause.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\theme_paper_ic_clock.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\theme_paper_ic_clock.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\ic_help.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_help.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\ic_battle.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_battle.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\ic_number.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_number.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\theme_wood_title.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\theme_wood_title.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\theme_leather_ic_pause.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\theme_leather_ic_pause.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\theme_leather_ic_clock.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\theme_leather_ic_clock.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\theme_metal_ic_pause.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\theme_metal_ic_pause.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\btn_close_pressed.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\btn_close_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xlarge-mdpi\\ic_sound_off.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xlarge-mdpi\\ic_sound_off.png"
+    }
+]

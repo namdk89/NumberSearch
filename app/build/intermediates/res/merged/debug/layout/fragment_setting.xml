@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fdebc7"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/title_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:background="@drawable/ic_title_top"
+        android:contentDescription="@null" />
+
+    <ImageView
+        android:id="@+id/title_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:adjustViewBounds="true"
+        android:background="@drawable/ic_title_bottom"
+        android:contentDescription="@null" />
+
+    <com.triplesnake.view.ArialTextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title_top"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/s10dp"
+        android:text="@string/setting_title"
+        android:textColor="#000"
+        android:textSize="@dimen/s36sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/row1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:layout_marginLeft="@dimen/s10dp"
+        android:layout_marginRight="@dimen/s10dp"
+        android:layout_marginTop="@dimen/s30dp"
+        android:baselineAligned="false" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <com.triplesnake.view.ArialTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/theme_green_title"
+                android:textSize="@dimen/s24sp" />
+
+            <com.triplesnake.view.ButtonWrapBackground
+                android:id="@+id/theme_green"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/s5dp"
+                android:background="@drawable/theme_green_selected" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <com.triplesnake.view.ArialTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/theme_red_title"
+                android:textSize="@dimen/s24sp" />
+
+            <com.triplesnake.view.ButtonWrapBackground
+                android:id="@+id/theme_red"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/s5dp"
+                android:background="@drawable/theme_red_lock" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <com.triplesnake.view.ArialTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/theme_leather_title"
+                android:textSize="@dimen/s24sp" />
+
+            <com.triplesnake.view.ButtonWrapBackground
+                android:id="@+id/theme_leather"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/s5dp"
+                android:background="@drawable/theme_leather_lock" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/row1"
+        android:layout_marginLeft="@dimen/s10dp"
+        android:layout_marginRight="@dimen/s10dp"
+        android:layout_marginTop="@dimen/s20dp"
+        android:baselineAligned="false" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <com.triplesnake.view.ArialTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/theme_metal_title"
+                android:textSize="@dimen/s24sp" />
+
+            <com.triplesnake.view.ButtonWrapBackground
+                android:id="@+id/theme_metal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/s5dp"
+                android:background="@drawable/theme_metal_selected" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <com.triplesnake.view.ArialTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/theme_paper_title"
+                android:textSize="@dimen/s24sp" />
+
+            <com.triplesnake.view.ButtonWrapBackground
+                android:id="@+id/theme_paper"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/s5dp"
+                android:background="@drawable/theme_paper_lock" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <com.triplesnake.view.ArialTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/theme_wood_title"
+                android:textSize="@dimen/s24sp" />
+
+            <com.triplesnake.view.ButtonWrapBackground
+                android:id="@+id/theme_wood"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/s5dp"
+                android:background="@drawable/theme_wood_lock" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

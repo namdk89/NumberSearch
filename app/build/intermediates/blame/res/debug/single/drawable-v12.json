@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v12\\btn_quick_match.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-v12\\btn_quick_match.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v12\\btn_quick_match_normal.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-v12\\btn_quick_match_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v12\\btn_check_match_normal.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-v12\\btn_check_match_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v12\\btn_start_match_click.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-v12\\btn_start_match_click.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v12\\btn_start_match.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-v12\\btn_start_match.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v12\\btn_check_match.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-v12\\btn_check_match.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v12\\btn_quick_match_click.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-v12\\btn_quick_match_click.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v12\\btn_check_match_click.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-v12\\btn_check_match_click.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v12\\btn_start_match_normal.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-v12\\btn_start_match_normal.xml"
+    }
+]

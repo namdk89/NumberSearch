@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\raw\\success_special.wav",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\raw\\success_special.wav"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\raw\\select.mp3",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\raw\\select.mp3"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\raw\\words.txt",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\raw\\words.txt"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\raw\\background.mp3",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\raw\\background.mp3"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ticktac.mp3",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\raw\\ticktac.mp3"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\raw\\means.txt",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\raw\\means.txt"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\raw\\music.wav",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\raw\\music.wav"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\raw\\prons.txt",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\raw\\prons.txt"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\raw\\success_normal.wav",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\raw\\success_normal.wav"
+    }
+]

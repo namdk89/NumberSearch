@@ -1,0 +1,73 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="gold">#88d4a017</color>
+    <color name="goldenrod">#88edda74</color>
+    <color name="yellow">#88ffff00</color>
+    <color name="orange">#88f87a17</color>
+    <color name="red">#88ff0000</color>
+    <color name="firebrick">#88800517</color>
+    <color name="deeppink">#88f52887</color>
+    <color name="magenta">#88ff00ff</color>
+    <color name="orangered">#88e63817</color>
+    <color name="bown">#88980517</color>
+    <color name="yellowgreen">#889acd32</color>
+    <color name="cholate">#88c85a17</color>
+    <color name="coral">#88f76541</color>
+    <color name="khaki">#88ada96e</color>
+    <color name="peru">#88c57726</color>
+    <color name="blue">#880000ff</color>
+    <color name="deepskyblue">#883bb9ff</color>
+    <color name="darkviolet">#88842dce</color>
+    <color name="aquamarine">#8843b7ba</color>
+    <color name="white_opaque">#ffffff</color>
+    
+    <color name="btn_play_normal">#2fe0c8</color>
+    <color name="btn_play_pressed">#2fbde0</color>
+
+    <color name="btn_endless_normal">#00cc00</color>
+    <color name="btn_endless_pressed">#00dd00</color>
+    
+    <color name="btn_setting_normal">#b172ff</color>
+    <color name="btn_setting_pressed">#a69df6</color>
+    
+    <color name="btn_lib_normal">#ff5b54</color>
+    <color name="btn_lib_pressed">#ff9054</color>
+    
+    <color name="btn_cont_normal">#2ee432</color>
+    <color name="btn_cont_pressed">#0ada54</color>
+    
+    <color name="btn_exit_normal">#8d8d8d</color>
+    <color name="btn_exit_pressed">#b9b9b9</color>
+    
+    <color name="btn_ok_normal">#8d8d8d</color>
+    <color name="btn_ok_pressed">#b9b9b9</color>
+
+    <integer-array name="word_search_colors">
+        <item>0x8879bb33</item>
+        <item>0x886bb1cf</item>
+        <item>0x885fceca</item>
+        <item>0x88e48991</item>
+        <item>0x88d5cd6e</item>
+        <item>0x882e54e3</item>
+        <item>0x8800ca3d</item>
+        <item>0x88fdb039</item>
+        <item>0x888823eb</item>
+        <item>0x88df2d3c</item>
+        <item>0x889c58b5</item>
+        <item>0x88b89f31</item>
+        <item>0x88005b8d</item>
+        <item>0x887a8291</item>
+        <item>0x88b4b831</item>
+        <item>0x88d47e5e</item>
+        <item>0x88ff6e1f</item>
+        <item>0x886982ef</item>
+        <item>0x88e84823</item>
+        <item>0x88df2db3</item>
+        <item>0x8864622a</item>
+        <item>0x88c33357</item>
+        <item>0x88ed1e79</item>
+        <item>0x88348b7a</item>
+        <item>0x8895a5a5</item>
+    </integer-array>
+</resources>

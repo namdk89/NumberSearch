@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_red_lock.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\theme_red_lock.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sound_button.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\sound_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\btn_play.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_leather_selected.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\theme_leather_selected.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_metal_lock.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\theme_metal_lock.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_close.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\btn_close.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_exit.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\btn_exit.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_paper_selected.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\theme_paper_selected.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_red_selected.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\theme_red_selected.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_help.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\btn_help.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_rank.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\btn_rank.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_paper_lock.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\theme_paper_lock.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_setting.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\btn_setting.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_alert.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\btn_alert.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_wood_lock.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\theme_wood_lock.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_achievement.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\btn_achievement.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_battle.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\btn_battle.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_library.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\btn_library.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sound.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\btn_sound.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_continue.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\btn_continue.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_green_selected.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\theme_green_selected.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_wood_selected.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\theme_wood_selected.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_metal_selected.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\theme_metal_selected.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\theme_leather_lock.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable\\theme_leather_lock.xml"
+    }
+]

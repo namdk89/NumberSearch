@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/s10dp"
+    android:paddingRight="@dimen/s10dp" >
+
+    <ImageView
+        android:id="@+id/number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:contentDescription="@null"
+        android:src="@drawable/ic_number" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <com.triplesnake.view.MenuButton
+            android:id="@+id/menu_btn_start"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#00000000"
+            custom:centerText="PLAY"
+            custom:leftText="A"
+            custom:normalColor="@color/btn_play_normal"
+            custom:pressedColor="@color/btn_play_pressed"
+            custom:rightText="FLOWWIL" />
+
+        <com.triplesnake.view.MenuButton
+            android:id="@+id/menu_btn_endless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/s15dp"
+            android:background="#00000000"
+            custom:centerText="ENDLESS"
+            custom:leftText="ZCNX"
+            custom:normalColor="@color/btn_endless_normal"
+            custom:pressedColor="@color/btn_endless_pressed"
+            custom:rightText="M" />
+
+        <com.triplesnake.view.MenuButton
+            android:id="@+id/menu_btn_setting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/s15dp"
+            android:background="#00000000"
+            custom:centerText="THEMES"
+            custom:leftText="ME"
+            custom:normalColor="@color/btn_setting_normal"
+            custom:pressedColor="@color/btn_setting_pressed"
+            custom:rightText="BBZ" />
+
+        <com.triplesnake.view.MenuButton
+            android:id="@+id/menu_btn_lib"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/s15dp"
+            android:background="#00000000"
+            custom:centerText="MORES"
+            custom:leftText="LHABVE"
+            custom:normalColor="@color/btn_lib_normal"
+            custom:pressedColor="@color/btn_lib_pressed"
+            custom:rightText="Z" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:id="@+id/bottom_panel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_vertical" >
+
+        <com.triplesnake.view.ButtonWrapBackground
+            android:id="@+id/btn_leaderboard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_rank" />
+
+        <com.triplesnake.view.ButtonWrapBackground
+            android:id="@+id/btn_achievement"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/s15dp"
+            android:layout_marginRight="@dimen/s15dp"
+            android:background="@drawable/btn_achievement" />
+
+        <com.triplesnake.view.ButtonWrapBackground
+            android:id="@+id/btn_multiplayer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_battle" />
+    </LinearLayout>
+
+</LinearLayout>

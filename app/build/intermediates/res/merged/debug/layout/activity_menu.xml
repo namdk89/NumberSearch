@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fdebc7" >
+
+    <ImageView
+        android:id="@+id/title_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:background="@drawable/ic_title_top"
+        android:contentDescription="@null" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/s10dp"
+        android:layout_alignParentRight="true"
+        android:layout_gravity="right" >
+
+        <com.triplesnake.view.ButtonWrapBackground
+            android:id="@+id/btn_help"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_help" />
+
+        <CheckBox
+            android:id="@+id/btn_sound"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="@dimen/s10dp"
+            android:background="@drawable/btn_sound"
+            android:button="@null" />
+    </LinearLayout>
+    
+    <RelativeLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/title_bottom"
+        android:layout_below="@+id/title_top" />
+
+    <ImageView
+        android:id="@+id/title_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:adjustViewBounds="true"
+        android:background="@drawable/ic_title_bottom"
+        android:contentDescription="@null" />
+
+    <RelativeLayout
+        android:id="@+id/progress"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#90000000"
+        android:visibility="gone" >
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+    <!--com.google.android.gms.ads.AdView
+        android:id="@+id/banner"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/ad_id"
+        android:layout_width="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content" />
+
+    <com.leostyle.view.ButtonWrapBackground
+        android:id="@+id/close_banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignTop="@+id/banner"
+        android:layout_alignRight="@+id/banner"
+        android:background="@drawable/btn_close"
+        android:visibility="gone" /-->
+
+</RelativeLayout>

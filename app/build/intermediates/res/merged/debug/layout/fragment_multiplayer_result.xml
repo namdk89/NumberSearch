@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fdebc7" >
+
+    <ImageView
+        android:id="@+id/title_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:background="@drawable/ic_title_top"
+        android:contentDescription="@null" />
+
+    <ImageView
+        android:id="@+id/title_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:adjustViewBounds="true"
+        android:background="@drawable/ic_title_bottom"
+        android:contentDescription="@null" />
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title_top"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/s45dp"
+        android:text="@string/match_sent"
+        android:textColor="#000"
+        android:textSize="@dimen/s32sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/player1_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/result_icon"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/p1_avatar"
+            android:layout_width="@dimen/s55dp"
+            android:layout_height="@dimen/s55dp"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="@null"
+            android:src="@drawable/ic_anonymous" />
+
+        <com.triplesnake.view.AutoScrollingTextView
+            android:id="@+id/p1_name"
+            android:layout_width="@dimen/s95dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/s5dp"
+            android:ellipsize="marquee"
+            android:gravity="center_horizontal"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+            android:singleLine="true"
+            android:text="@string/default_name"
+            android:textColor="#00f"
+            android:textSize="@dimen/s20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/s20dp"
+            android:gravity="center"
+            android:text="@string/result_score"
+            android:textColor="#5e5e5e"
+            android:textSize="@dimen/s16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/p1_found"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/pending"
+            android:textColor="#00f"
+            android:textSize="@dimen/s16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/result_bonus"
+            android:textColor="#5e5e5e"
+            android:textSize="@dimen/s16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/p1_time_left"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/pending"
+            android:textColor="#00f"
+            android:textSize="@dimen/s16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/result_total"
+            android:textColor="#5e5e5e"
+            android:textSize="@dimen/s16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/p1_total_score"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/pending"
+            android:textColor="#00f"
+            android:textSize="@dimen/s16sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/result_icon"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/p2_avatar"
+            android:layout_width="@dimen/s55dp"
+            android:layout_height="@dimen/s55dp"
+            android:layout_gravity="center_horizontal"
+            android:contentDescription="@null"
+            android:src="@drawable/ic_anonymous" />
+
+        <com.triplesnake.view.AutoScrollingTextView
+            android:id="@+id/p2_name"
+            android:layout_width="@dimen/s95dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/s5dp"
+            android:ellipsize="marquee"
+            android:gravity="center_horizontal"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+            android:singleLine="true"
+            android:text="@string/default_name"
+            android:textColor="#f00"
+            android:textSize="@dimen/s20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/s20dp"
+            android:gravity="center"
+            android:text="@string/result_score"
+            android:textColor="#5e5e5e"
+            android:textSize="@dimen/s16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/p2_found"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/pending"
+            android:textColor="#f00"
+            android:textSize="@dimen/s16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/result_bonus"
+            android:textColor="#5e5e5e"
+            android:textSize="@dimen/s16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/p2_time_left"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/pending"
+            android:textColor="#f00"
+            android:textSize="@dimen/s16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/result_total"
+            android:textColor="#5e5e5e"
+            android:textSize="@dimen/s16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/p2_total_score"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="@string/pending"
+            android:textColor="#f00"
+            android:textSize="@dimen/s16sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <com.triplesnake.view.ButtonWrapBackground
+        android:id="@+id/result_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/player1_result"
+        android:layout_below="@+id/result"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/s10dp"
+        android:background="@drawable/ic_match_list" />
+
+    <com.triplesnake.view.MenuButton
+        android:id="@+id/btn_ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/title_bottom"
+        android:layout_marginBottom="@dimen/s45dp"
+        android:layout_marginLeft="@dimen/s10dp"
+        android:layout_marginRight="@dimen/s10dp"
+        android:background="#00000000"
+        custom:centerText="OK"
+        custom:leftText="FLOWW"
+        custom:normalColor="@color/btn_cont_normal"
+        custom:pressedColor="@color/btn_ok_pressed"
+        custom:rightText="ALEAP" />
+
+</RelativeLayout>

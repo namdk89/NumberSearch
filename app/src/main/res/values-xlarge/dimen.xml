@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_wrap_background_ratio" format="float" type="dimen">2.0</item>
+    <dimen name="s5dp">10dp</dimen>
+    <dimen name="s10dp">20dp</dimen>
+    <dimen name="s15dp">30dp</dimen>
+    <dimen name="s20dp">40dp</dimen>
+    <dimen name="s30dp">60dp</dimen>
+    <dimen name="s40dp">80dp</dimen>
+    <dimen name="s45dp">90dp</dimen>
+    <dimen name="s55dp">110dp</dimen>
+    <dimen name="s65dp">130dp</dimen>
+    <dimen name="s80dp">160dp</dimen>
+    <dimen name="s95dp">190dp</dimen>
+    <dimen name="s200dp">400dp</dimen>
+    <dimen name="s225dp">450dp</dimen>
+    <dimen name="s240dp">480dp</dimen>
+    <dimen name="s250dp">500dp</dimen>
+    
+    <dimen name="s12sp">24sp</dimen>
+    <dimen name="s14sp">28sp</dimen>
+    <dimen name="s16sp">32sp</dimen>
+    <dimen name="s18sp">36sp</dimen>
+    <dimen name="s20sp">40sp</dimen>
+    <dimen name="s24sp">48sp</dimen>
+    <dimen name="s28sp">56sp</dimen>
+    <dimen name="s32sp">64sp</dimen>
+    <dimen name="s36sp">72sp</dimen>
+</resources>

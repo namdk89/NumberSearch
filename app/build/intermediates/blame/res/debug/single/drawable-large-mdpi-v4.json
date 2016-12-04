@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\theme_leather_grid_bg.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-large-mdpi\\theme_leather_grid_bg.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\theme_metal_grid_bg.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-large-mdpi\\theme_metal_grid_bg.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\ic_title_bottom.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-large-mdpi\\ic_title_bottom.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\theme_metal_title.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-large-mdpi\\theme_metal_title.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\theme_wood_grid_bg.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-large-mdpi\\theme_wood_grid_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\ic_title_top.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-large-mdpi\\ic_title_top.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\theme_wood_grid_tile.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-large-mdpi\\theme_wood_grid_tile.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\theme_paper_grid_bg.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-large-mdpi\\theme_paper_grid_bg.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\ic_anonymous.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-large-mdpi\\ic_anonymous.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\theme_paper_title.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-large-mdpi\\theme_paper_title.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\theme_leather_title.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-large-mdpi\\theme_leather_title.jpg"
+    }
+]

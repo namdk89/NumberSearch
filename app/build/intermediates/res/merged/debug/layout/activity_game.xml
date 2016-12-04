@@ -1,0 +1,104 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/theme_metal_title"
+        android:gravity="center_vertical"
+        android:padding="@dimen/s5dp" >
+
+        <com.triplesnake.view.ButtonWrapBackground
+            android:id="@+id/btn_pause"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/s15dp"
+            android:background="@drawable/theme_metal_ic_pause" />
+
+        <com.triplesnake.view.ArialTextView
+            android:id="@+id/level"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:includeFontPadding="false"
+            android:textColor="#ececec"
+            android:textSize="@dimen/s28sp"
+            android:textStyle="bold" />
+
+        <com.triplesnake.view.ArialTextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="@dimen/s10dp"
+            android:drawableRight="@drawable/theme_metal_ic_clock"
+            android:gravity="center_vertical"
+            android:includeFontPadding="false"
+            android:textColor="#ececec"
+            android:textSize="@dimen/s28sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <com.triplesnake.view.NumberBoardView
+        android:id="@+id/game_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title"
+        android:background="#00000000"
+        android:padding="0dp" />
+
+    <com.triplesnake.view.NumberList
+        android:id="@+id/list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/game_view"
+        android:padding="@dimen/s5dp"
+        android:scrollbars="vertical"
+        android:textColor="#fff"
+        android:textSize="@dimen/s18sp"
+        android:textStyle="bold" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/ad_id"
+        android:visibility="gone" />
+
+    <com.triplesnake.view.ButtonWrapBackground
+        android:id="@+id/close_banner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/banner"
+        android:layout_alignTop="@+id/banner"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/btn_close"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/main"
+        android:visibility="visible"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        
+        <ProgressBar 
+            android:id="@+id/progress"
+            android:layout_centerInParent="true"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

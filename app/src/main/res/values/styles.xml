@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="buttonBarStyle">@style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@style/ButtonBarButton</item>
+        
+        <item name="normalColor">@color/btn_play_normal</item>
+        <item name="pressedColor">@color/btn_play_pressed</item>
+        <item name="leftText">\u0020\u0020\u0020</item>
+        <item name="rightText">\u0020\u0020\u0020</item>
+    </style>
+    
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+
+    <style name="ButtonBarButton" />
+
+</resources>

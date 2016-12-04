@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ic_alert_bg"
+    android:orientation="vertical"
+    android:padding="@dimen/s10dp" >
+
+    <com.triplesnake.view.ArialTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/introduce_title"
+        android:textColor="#000"
+        android:textSize="@dimen/s28sp"
+        android:textStyle="bold" />
+
+    <com.triplesnake.view.ArialTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/s10dp"
+        android:maxWidth="@dimen/s240dp"
+        android:orientation="vertical"
+        android:text="@string/introduce_content"
+        android:textColor="#000"
+        android:textSize="@dimen/s18sp" />
+
+</LinearLayout>

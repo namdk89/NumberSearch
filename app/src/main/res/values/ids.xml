@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_id">675836144554</string>
+  <string name="achievement_winner">CgkIqtfk19UTEAIQFQ</string>
+  <string name="achievement_like_a_scanner">CgkIqtfk19UTEAIQFw</string>
+  <string name="achievement_who_is_faster_than_me">CgkIqtfk19UTEAIQGA</string>
+  <string name="achievement_easy">CgkIqtfk19UTEAIQGg</string>
+  <string name="achievement_master_numbers">CgkIqtfk19UTEAIQFg</string>
+  <string name="achievement_no_number_can_hide">CgkIqtfk19UTEAIQGQ</string>
+  <string name="achievement_lucky">CgkIqtfk19UTEAIQFA</string>
+  <string name="leaderboard_high_scores">CgkIqtfk19UTEAIQBw</string>
+</resources>

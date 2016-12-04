@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_anonymous.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xhdpi\\ic_anonymous.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\theme_paper_title.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xhdpi\\theme_paper_title.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\theme_metal_title.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xhdpi\\theme_metal_title.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\theme_wood_grid_bg.xml",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xhdpi\\theme_wood_grid_bg.xml"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\theme_leather_grid_bg.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xhdpi\\theme_leather_grid_bg.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\theme_leather_title.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xhdpi\\theme_leather_title.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\theme_metal_grid_bg.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xhdpi\\theme_metal_grid_bg.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\theme_paper_grid_bg.jpg",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\src\\main\\res\\drawable-xhdpi\\theme_paper_grid_bg.jpg"
+    },
+    {
+        "merged": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\Android\\StudioProjects\\NumberSearch\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    }
+]

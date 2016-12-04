@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Number Search</string>
+    <string name="ad_id">a1532152653cb4a</string>
+    <string name="market_url">market://details?id=com.leostyle.games.numbersearch</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="hint">INTRODUCE</string>
+    <string name="multiplayer_hint">During the allotted time, the player must find as many numbers as possible in list. Player have higher score will win.</string>
+    <string name="you_win">YOU WIN</string>
+    <string name="you_lose">YOU LOSE</string>
+    <string name="draw">DRAW</string>
+    <string name="found">Found</string>
+    <string name="time_left">Time left</string>
+    <string name="default_no">%1$s/%1$s</string>
+    <string name="default_name">Anonymous</string>
+    <string name="pending">--</string>
+    <string name="rate_title">Rate app</string>
+    <string name="rate_content">You really seem to like this game, since you have already used it %1$s times! It would be great if you took a moment to rate it.</string>
+    <string name="rate_error">You need install Play Store to rate app.</string>
+    <string name="check_other_title">More games and apps</string>
+    <string name="check_other_content">We have so many games and applications. Do you want to see?</string>
+    <string name="confirm_exit_title">Are you sure you want to exit game?</string>
+    <string name="confirm_exit_content">Come back to check challenges from your friends</string>
+    <string name="confirm_exit_game_title">Are you sure you want to quit?</string>
+    <string name="confirm_exit_game_content">Current game state will be saved automatically</string>
+    <string name="confirm_new_game_title">Start new game</string>
+    <string name="confirm_new_game_content">All current game data will be lost</string>
+    <string name="quick_match">QUICK MATCH</string>
+    <string name="start_match">START MATCH</string>
+    <string name="check_match">CHECK MATCH</string>
+    <string name="level">Level %1$s</string>
+
+    <!-- SETTING -->
+    <string name="setting_title">THEMES</string>
+    <string name="introduce_title">How to play</string>
+    <string name="introduce_content">You task is to find the hidden numbers in the matrix vertically, horizontally and diagonally. The higher level the higher point you get per number. Find all the numbers to pass level, the time left is bonus points. Special, if you find number that have the same digits and bigger than 100 you will get bonus points.</string>
+    <string name="theme_unavailable">Theme locked</string>
+    <string name="theme_green_title">Green</string>
+    <string name="theme_red_title">Red</string>
+    <string name="theme_leather_title">Leather</string>
+    <string name="theme_metal_title">Metal</string>
+    <string name="theme_paper_title">Paper</string>
+    <string name="theme_wood_title">Wood</string>
+
+    <string-array name="theme_requies">
+        <item>null</item>
+        <item>You need to pass level 2 to unlock</item>
+        <item>You need to propose and evaluate on Google Play to unlock</item>
+        <item>You need to pass level 6 to unlock</item>
+        <item>You need to find number that have the same digits and bigger than 100 to unlock</item>
+        <item>Reach 1500 points to unlock</item>
+    </string-array>
+    <string-array name="theme_unlock_msg">
+        <item>null</item>
+        <item>Theme RED is unlocked</item>
+        <item>Theme LEATHER is unlocked</item>
+        <item>Theme METAL is unlocked</item>
+        <item>Theme PAPER is unlocked</item>
+        <item>Theme WOOD is unlocked</item>
+    </string-array>
+
+    <!-- RESULT -->
+    <string name="result_title_win">RESULT</string>
+    <string name="match_sent">CHALLENGE SENT</string>
+    <string name="result_level">Level</string>
+    <string name="result_score">Score</string>
+    <string name="result_bonus">Bonus</string>
+    <string name="result_total">Total score</string>
+
+    <!-- ALERT -->
+    <string name="canceled_title">Canceled!</string>
+    <string name="canceled_content">This game was canceled!</string>
+    <string name="expire_title">Expired!</string>
+    <string name="expire_content">This game is expired.  So sad!</string>
+    <string name="auto_matching_title">Waiting for auto-match&#8230;</string>
+    <string name="auto_matching_content">We\'re still waiting for an automatch partner.</string>
+    <string name="their_turn_title">Alas&#8230;</string>
+    <string name="their_turn_content">It\'s not your turn.</string>
+    <string name="invited_title">Good initiative</string>
+    <string name="invited_content">Still waiting for invitations.\n\nBe patient!</string>
+    <string name="continue_title">Continue game?</string>
+    <string name="continue_msg">Play from last game state previous</string>
+    <string name="warning">Warning</string>
+    <string name="game_network_error">Network error, game state will be update to server later.</string>
+
+</resources>
